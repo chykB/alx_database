@@ -1,2 +1,2 @@
---this script list all databases in the SQL server
+-- the scripts all databases in my SQL server
 SHOW DATABASES;

@@ -1,2 +1,2 @@
 -- this script desrcibes the table 'first_table'
-SHOW first_table;
+SHOW CREATE TABLE first_table;
